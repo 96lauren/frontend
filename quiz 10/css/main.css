@@ -1,0 +1,23 @@
+body{
+	background-color: #98d2e6;
+	width: 1500px;
+
+}
+.content{
+	background-color: #00afdb;
+	width:750px;
+	margin: 50% auto;
+	padding: 30px; 
+	text-align: center;
+}
+button{
+	width: 370px;
+	background-color: #29427b;
+	border-margin:0px;
+	color: #fff;
+}
+i{
+	background-color: pink;
+	width: 20px;
+	height: 20px;
+}

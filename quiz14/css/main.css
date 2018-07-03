@@ -1,0 +1,151 @@
+
+body{
+	background-image: url(../images/wood.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+@media only screen and (max-width: 700px;) {
+	body{
+		background-color:green; 
+	}
+}
+
+header{
+	width: 100%;
+	background-color: rgba(255,255,255,0.2);
+	color: red;
+	font-weight: bold;
+	font-size:45px;
+	text-align: center;
+
+
+}
+
+.main{
+	width: 1000px;
+	min-height: 700px;
+	margin: 0 auto;
+	background-color: rgba(0,0,0,0.5);
+	padding: 20px;
+}
+.container{
+	background-color: rgba(255,255,255,0.2);
+	width: 500px;
+	height: 500px;
+	padding: 10px;
+	float: left;
+	color: rgba(255,255,255);
+	font-size: 18px
+
+}
+.cont{
+	background-color: rgba(255,255,255,0.2);
+	width:400px;
+	height:500px;
+	float:left;
+	margin-left:10px;
+	padding:10px;
+	
+}
+
+p{
+	text-align: center;
+	text-transform: uppercase;
+	color: pink;
+	font-size: 40px;
+}
+.fa-facebook{
+	width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color: blue;
+	color: #fff;
+	text-align: center;
+	font-size: 20px; 
+	float: right;
+}	
+
+.fa-google{
+	width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color: red;
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+	float: right;
+
+}
+
+
+.fa-twitter{
+	width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color:lightblue;
+	color: #fff;
+	text-align: center;
+	font-size: 80px;
+	font-weight: bold;
+	float: right;
+
+}
+
+.fa-tumblr{
+	width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color:orange;
+	color: red;
+	font-size: 80px;
+	font-weight: bold;
+	float: left
+
+}
+
+.fa-instagram{
+	width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color:magenta;
+	color: blue;
+	font-size: 80px;
+	font-weight: bold;
+	float: left
+
+
+}
+
+.fa-whatsapp{
+	min-width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color:green;
+	color: #fff;
+	font-size: 80px;
+	font-weight: bold;
+	float: left
+
+
+}
+
+.fa-phone-square{
+	min-width: 100px;
+	padding: 3px;
+	border-radius: 10px;
+	background-color:lightgreen;
+	color: #fff;
+	font-size: 80px;
+	font-weight: bold;
+	float: left
+}
+
+footer{
+	width: 100%;
+	background-color: rgba(255,255,255,0.2);
+	color: tomato;
+	font-size: 70px;
+	text-align: center;
+}
+

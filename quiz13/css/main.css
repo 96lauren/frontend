@@ -1,0 +1,70 @@
+@media only screen and (max-width: 600px;) {
+	body{
+		background:#fff;
+	}
+}
+
+body{
+	background-color: #333;
+}
+ 
+
+.main{
+	max-width: 100%;
+	min-height: 500px;
+	background: pink;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+	padding: 25px;
+
+}
+
+.one{
+	width:50%;
+	height:100px;
+	background: #000;
+	float: left;
+
+}
+
+.two{
+	width:50%;
+	height:100px;
+	background: yellow;
+	float:left;
+}
+
+.three{
+	margin:10px;
+	width:20%;
+	height:100px;
+	background: yellow;
+	float:left;
+	
+}
+
+.four{
+	margin:10px;
+	width:20%;
+	height:100px;
+	background: yellow;
+	float:left;
+	
+}
+
+.five{
+	margin:10px;
+	width:20%;
+	height:100px;
+	background: yellow;
+	float:left;
+	
+}
+.six{
+	margin:10px;
+	width:30%;
+	height:100px;
+	background: yellow;
+	float:left;
+	
